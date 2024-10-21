@@ -3,7 +3,9 @@
 # Motors attached to GPIO 13,19,26;16,20,21
 # For motor control, use Android App Bluedot by Martin O'Hanlon
 # Install Python library (module) with: sudo pip3 install bluedot
-# By Bernd54Albrecht
+# Copyright Bernd54Albrecht
+# This code is in the public domain and may be freely copied and used
+# No warranty is provided or implied
 
 from bluedot import BlueDot
 from time import sleep
