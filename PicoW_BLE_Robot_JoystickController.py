@@ -2,7 +2,9 @@
 # Joystick with two 10K potentiometers on ADC0 and ADC1
 # Modified from Official Rasp Pi example here:
 # https://github.com/micropython/micropython/tree/master/examples/bluetooth
-# by Bernd54Albrecht
+# # Copyright Bernd54Albrecht
+# This code is in the public domain and may be freely copied and used
+# No warranty is provided or implied
 
 import bluetooth
 import random
