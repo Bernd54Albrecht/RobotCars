@@ -6,6 +6,9 @@ Wertigkeit 2 (z.B. für Sirene) und 4 (z.B. für Umschalten in autonomen Modus)
 noch nicht implementiert
 Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 github: Bernd54Albrecht
+# Copyright Bernd54Albrecht
+# This code is in the public domain and may be freely copied and used
+# No warranty is provided or implied
 This is based on a test sketch for the Adafruit assembled Motor Shield for Arduino v2
 It won't work with v1.x motor shields! Only for the v2's with built in PWM control
 For use with the Adafruit Motor Shield v2
