@@ -1,7 +1,9 @@
 # Robot Car with Raspberry Pi Pico W BLE
 # Modified from Official Rasp Pi example here:
 # https://github.com/micropython/micropython/tree/master/examples/bluetooth
-# by Bernd54Albrecht
+# Copyright Bernd54Albrecht
+# This code is in the public domain and may be freely copied and used
+# No warranty is provided or implied
 
 import bluetooth
 import time
