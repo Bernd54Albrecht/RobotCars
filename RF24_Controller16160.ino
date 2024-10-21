@@ -5,6 +5,9 @@ je 15 Stufen vor/zurück, je 15 Stufen rechts/links
 Wertigkeit 2 für gelbe Taster (A und C) und 4 für Joystick-Button
 Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
 github: Bernd54Albrecht
+# Copyright Bernd54Albrecht
+# This code is in the public domain and may be freely copied and used
+# No warranty is provided or implied
 */
 #include <SPI.h>
 #include <nRF24L01.h>
